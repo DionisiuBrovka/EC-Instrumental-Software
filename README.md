@@ -123,4 +123,4 @@
 
 ## 👤 Разработана
 
-- Бровка Дионисий Сергеевич (_[GitHub](https://github.com/DionisiuBrovka)_) 2025
+- Бровка Дионисий Сергеевич (_[GitHub](https://github.com/DionisiuBrovka)_) 2026
